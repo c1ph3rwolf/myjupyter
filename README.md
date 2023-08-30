@@ -1,2 +1,2 @@
 # myjupyter
-Collections of Documented Python Scrips in Jupyter Notebook
+Collections of Documented Python Scripts in Jupyter Notebook
